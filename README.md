@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @peonbyfountain
+- 👀 I’m interested in DeFi
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on FizzyFinance
